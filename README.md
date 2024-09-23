@@ -19,7 +19,7 @@ brew install imagemagick
 ```
 
 ### On Windows:
-Download and install ImageMagick from the [official website](https://imagemagick.org/script/download.php).
+Download and install ImageMagick from the [official website](https://imagemagick.org/script/download.php#windows).
 
 ## Installation
 
